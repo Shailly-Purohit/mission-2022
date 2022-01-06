@@ -11,10 +11,13 @@ h1{
 .flexible-container{
         display: flex;
         margin-bottom: 100px;
+        
 }
 .half-width{
     width:50%;
     padding-left: 2%;
+    box-shadow: 10px 10px 30px;
+        border: 10px grey;
 }
 .link-button{
     text-decoration: none;
@@ -31,4 +34,10 @@ h1{
 }
 .centre{
     text-align:center;
+}
+footer p{
+    background-color: black;
+    text-align: center;
+    color: blanchedalmond;
+
 }
